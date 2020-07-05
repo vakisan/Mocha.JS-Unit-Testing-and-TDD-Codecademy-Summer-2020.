@@ -1,0 +1,23 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "description": "Final Mocha.js project testing TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha FactorialFeature_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakisan/Mocha.JS-Unit-Testing-and-TDD-Codecademy-Summer-2020..git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vakisan/Mocha.JS-Unit-Testing-and-TDD-Codecademy-Summer-2020./issues"
+  },
+  "homepage": "https://github.com/vakisan/Mocha.JS-Unit-Testing-and-TDD-Codecademy-Summer-2020.#readme",
+  "keywords": [],
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
