@@ -18,6 +18,6 @@
   "homepage": "https://github.com/vakisan/Mocha.JS-Unit-Testing-and-TDD-Codecademy-Summer-2020.#readme",
   "keywords": [],
   "devDependencies": {
-    "mocha": "^8.0.1"
+    "mocha": "^8.4.0"
   }
 }
